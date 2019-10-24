@@ -17,6 +17,7 @@ public class Host
     private String lastUpdated;
     private DateTime birthDate;
     private int accomodationID;
+    private int githubtest;
 
     public Host()
     {
