@@ -17,7 +17,7 @@ public class Host
     private String lastUpdated;
     private DateTime birthDate;
     private int accomodationID;
-
+    int testvariable;
     public Host()
     {
         this.hostID = 0;
